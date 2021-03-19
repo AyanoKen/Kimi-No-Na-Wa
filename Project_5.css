@@ -55,8 +55,7 @@ h1{
 }
 
 #poster{
-	width: 405px;
-	height: 560px;
+	width: 100%;
 }
 
 #plot{
